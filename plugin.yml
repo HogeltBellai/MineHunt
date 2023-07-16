@@ -1,0 +1,8 @@
+name: MineHunt
+author: HogeltBellai
+version: 1.2.1
+
+main: ru.hogeltbellai.minehunt.MineHunt
+
+commands:
+  minehunt:

@@ -1,0 +1,20 @@
+cooldowns:
+  COAL_ORE: 10
+  IRON_ORE: 15
+  GOLD_ORE: 20
+limits:
+  COAL_ORE: 3
+  IRON_ORE: 2
+  GOLD_ORE: 1
+money:
+  COAL_ORE: 5
+  IRON_ORE: 10
+  GOLD_ORE: 15
+
+messages:
+  cooldown-message-allow: false
+  cooldown: "&cWait {time} sec. for take money {material} again."
+  break: "&aAdd {money} money for {material}."
+actionbar:
+  cooldown-actionbar-allow: true
+  cooldown: "&cWait {time} sec. for take money {material} again."
