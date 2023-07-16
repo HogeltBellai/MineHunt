@@ -1,0 +1,2 @@
+# MineHunt
+Mine for money
